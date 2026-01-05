@@ -4,3 +4,4 @@ __pycache__/
 .adk/
 agentkit.yaml
 agentkit*.yaml
+.agentkit/
